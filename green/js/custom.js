@@ -1,4 +1,4 @@
-// JavaScript Document for IGCLR Certification
+// JavaScript Document for ICGLR Certification
 $(document).ready(function() {
 
 // Create the dropdown nav for responsive
